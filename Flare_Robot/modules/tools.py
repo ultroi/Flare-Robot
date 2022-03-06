@@ -13,4 +13,10 @@ ml,mn,mr,ms,mt,my,ne,nl,no,ny,pa,pl,ps,pt,ro,ru,sd,si,sk,sl,
 sm,sn,so,sq,sr,st,su,sv,sw,ta,te,tg,th,tl,tr,uk,ur,uz,
 vi,xh,yi,yo,zh,zh_CN,zh_TW,zu`
 
+*Zombies*
+ADMINS ONLY
+  • `/zombies` :- searches deleted accounts
+  • `/zombies clean` :- removes deleted accounts from the group.
+  
+  
 """
