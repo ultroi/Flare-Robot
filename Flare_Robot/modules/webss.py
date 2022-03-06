@@ -3,9 +3,6 @@ from pyrogram import filters
 from Flare_Robot import pbot as app
 from Flare_Robot.utils.errors import capture_err
 
-__mod_name__ = "WebSS"
-__help__ = "`/webss` [URL] - Take A Screenshot Of A Webpage"
-
 
 @app.on_message(filters.command("webss"))
 @capture_err
