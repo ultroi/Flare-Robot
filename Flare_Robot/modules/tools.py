@@ -18,5 +18,8 @@ ADMINS ONLY
   • `/zombies` :- searches deleted accounts
   • `/zombies clean` :- removes deleted accounts from the group.
   
-  
+*Webss*
+`/webss` [URL] - Take A Screenshot Of A Webpage 
+
+
 """
