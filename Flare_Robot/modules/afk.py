@@ -11,7 +11,7 @@ from Flare_Robot.modules.disable import (
     DisableAbleCommandHandler,
     DisableAbleMessageHandler,
 )
-from Flare_Robot.modules.sql.afk_redis import start_afk, end_afk, is_user_afk, afk_reason
+from Flare_Robot.modules.redis.afk_redis import start_afk, end_afk, is_user_afk, afk_reason
 from Flare_Robot import REDIS
 from Flare_Robot.modules.users import get_user_id
 
