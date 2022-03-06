@@ -32,6 +32,8 @@ If you want to use these characters, make sure you escape them!
 
 *TTS*
   • `/texttospeech <text>` :- Converts a text message to a voice message.
-
+*Github-Info*
+/gitinfo :- <github profile username>
+Get info of any github profile.
 
 """
