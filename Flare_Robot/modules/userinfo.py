@@ -453,7 +453,7 @@ def stats(update, context):
                     )
                     + f"\n\n✦ [Support](https://t.me/{SUPPORT_CHAT}) | ✦ [Updates](https://t.me/Freia_Updates/5)\n\n"
                 )
-                + "╘══「 by [Asta](https://t.me/Asta_Silva02) 」\n"
+                + "╘══「 by [RYUK](https://t.me/Weeb_lover) 」\n"
             ),
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
