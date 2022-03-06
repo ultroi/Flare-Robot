@@ -28,5 +28,10 @@ or nothing. Delimiters include `/`, `_`, `|`, and `:`. Text grouping is supporte
 larger than {}.
 *Reminder:* Sed uses some special characters to make matching easier, such as these: `+*.?\\`
 If you want to use these characters, make sure you escape them!
-*Example:* \\?.
+*Example:* \\?. 
+
+*TTS*
+  • `/texttospeech <text>` :- Converts a text message to a voice message.
+
+
 """
