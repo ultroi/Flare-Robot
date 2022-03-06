@@ -5,7 +5,7 @@ from Flare_Robot.modules.disable import (
     DisableAbleCommandHandler,
     DisableAbleMessageHandler,
 )
-from Flare_Robot.modules.sql import afk_sql as sql
+from Flare_Robot.modules.sql import afk_redis as sql
 from Flare_Robot.modules.users import get_user_id
 from telegram import MessageEntity, Update
 from telegram.error import BadRequest
