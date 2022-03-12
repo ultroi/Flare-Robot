@@ -27,7 +27,7 @@ from Flare_Robot.__main__ import STATS, TOKEN, USER_INFO
 import Flare_Robot.modules.sql.userinfo_sql as sql
 from Flare_Robot.modules.disable import DisableAbleCommandHandler
 from Flare_Robot.modules.sql.global_bans_sql import is_user_gbanned
-from Flare_Robot.modules.sql.afk_redis import is_user_afk, afk_reason
+from Flare_Robot.modules.redis.afk_redis import start_afk, end_afk, is_user_afk, afk_reason
 from Flare_Robot.modules.sql.users_sql import get_user_num_chats
 from Flare_Robot.modules.helper_funcs.chat_status import sudo_plus
 from Flare_Robot.modules.helper_funcs.extraction import extract_user
