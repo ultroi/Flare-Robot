@@ -31,7 +31,7 @@ from Flare_Robot.modules.sql.afk_redis import is_user_afk, afk_reason
 from Flare_Robot.modules.sql.users_sql import get_user_num_chats
 from Flare_Robot.modules.helper_funcs.chat_status import sudo_plus
 from Flare_Robot.modules.helper_funcs.extraction import extract_user
-from Flare_Robot import telethn as SaitamaTelethonClient
+from Flare_Robot import telethn as FlareTelethonClient
 
 
 def no_by_per(totalhp, percentage):
